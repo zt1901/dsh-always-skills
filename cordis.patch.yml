@@ -1,0 +1,4 @@
+# dsh-always-skills：每次对话自动加载常驻 Skill 防遗忘插件
+- insert:
+    - id: dsh-always-skills
+      name: dsh-always-skills
